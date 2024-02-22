@@ -1,0 +1,18 @@
+.routes-carousel-container {
+    display: flex;
+    margin-inline: 10px;
+    flex-direction: column;
+    max-height: 900px;
+}
+
+.route-header {
+    align-items: center;
+    height: 3rem;
+    vertical-align: middle;
+    padding-bottom: 3px;
+}
+
+.route-content {
+    height: 700px;
+    overflow: scroll;
+}
